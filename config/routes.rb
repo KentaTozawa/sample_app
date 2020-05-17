@@ -7,5 +7,6 @@ Rails.application.routes.draw do
   # => # => StaticPages#home
   get 'static_pages/about'
   # => # => StaticPages#home
+  get 'static_pages/contact'
  
 end
